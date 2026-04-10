@@ -81,19 +81,19 @@ As métricas de desempenho foram calculadas seguindo as definições de escalabi
 
 # 7. Gráfico de Tempo de Execução
 
-![Gráfico Tempo Execução](graficos/tempo_execucao.png)
+![Gráfico Tempo Execução](Tempo.png)
 
 ---
 
 # 8. Gráfico de Speedup
 
-![Gráfico Speedup](graficos/speedup.png)
+![Gráfico Speedup](Speedup.png)
 
 ---
 
 # 9. Gráfico de Eficiência
 
-![Gráfico Eficiência](graficos/eficiencia.png)
+![Gráfico Eficiência](Eficiencia.png)
 
 ---
 
