@@ -93,7 +93,7 @@ As métricas de desempenho foram calculadas seguindo as definições de escalabi
 
 # 9. Gráfico de Eficiência
 
-![Gráfico Eficiência](Eficiencia.png)
+![Gráfico Eficiência](Eficiência.png)
 
 ---
 
